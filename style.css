@@ -1,0 +1,54 @@
+
+.custom-bg-black {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .bg-white {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .content {
+    padding: 30px;
+    font-size: 1.2rem;
+    color: black;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+    font-size: 1.5rem;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #ae0303;
+  }
+  
+  .col{
+    text-decoration: none;
+  }
+  .logo-text{
+    color: #fff;
+    font-family: 'Ariata';
+    src:url('fonts/Ariata/woff2') format('woff2'),
+    url('fonts/Ariata/woff') format('woff2');
+    font-weight: bolder;
+    font-size: 70%;
+  }
+  .nav-link:hover{
+    color: #d44343 !important; 
+
+  }
+  .dropdown-menu{
+    background-color: #e14343 !important;
+  }
+  a:hover{
+    color: red;
+  }
